@@ -17,5 +17,5 @@ The repo is a demonstration of fine tuning an open-source LLM (Llama-3-8B) utili
 
 ### Acknowledgments
 
-Thanks for the work share inspired by Maxime Labonn in his blog [here](https://mlabonne.github.io/blog/posts/2024-04-19_Fine_tune_Llama_3_with_ORPO.html)
+Thanks for the work shared by Maxime Labonn in his blog [here](https://mlabonne.github.io/blog/posts/2024-04-19_Fine_tune_Llama_3_with_ORPO.html).
 
