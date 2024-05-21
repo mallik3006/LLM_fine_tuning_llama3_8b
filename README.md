@@ -2,13 +2,13 @@
 
 ### Introduction
 
-The repo is a demonstration of fine tuning an open-source LLM (Llama-3-8B) utilizing different approaches and techniques. Fine-Tuning was done with ORPO technique that combines SFT and RLHF methods for preference alignment. The work explores fine tuning on multi-GPU environment utilizing distributed training methods like DeepSpeed and FSDP using the ```accelerate``` library rpovided by HuggingFace.
+The repo is a demonstration of fine tuning an open-source LLM (Llama-3-8B) utilizing different approaches and techniques. Fine-Tuning was done with ORPO technique that combines SFT and RLHF methods for preference alignment. The work explores fine tuning on multi-GPU environment utilizing distributed training methods like DeepSpeed and FSDP using the ```accelerate``` library provided by HuggingFace.
 
 
 ### Stack
 
 * LLM - ```Meta-Llama-3-8B```
-* Dataset (HF) - ```"mlabonne/orpo-dpo-mix-40k```
+* Dataset (HF) - ```mlabonne/orpo-dpo-mix-40k```
 * Fine-Tuning Method - ```ORPO```
 * Accelerator Technique - ```DeepSpeed ZeRO-3```
 * Trainer API - ```HuggingFace```
