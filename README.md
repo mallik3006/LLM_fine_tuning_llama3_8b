@@ -8,7 +8,7 @@ The repo is a demonstration of fine tuning an open-source LLM (Llama-3-8B) utili
 ### Stack
 
 * LLM - ```Meta-Llama-3-8B```
-* Embedding Model - ```BAAI/bge-large-en-v1.5```
+* Dataset (HF) - ```"mlabonne/orpo-dpo-mix-40k```
 * Fine-Tuning Method - ```ORPO```
 * Accelerator Technique - ```DeepSpeed ZeRO-3```
 * Trainer API - ```HuggingFace```
